@@ -19,7 +19,9 @@ border-color: #e9f5f5;
          h2 { color: #66bfbf;}
          h3 { color: #66bfbf;}
   hr{
-            height: 100px;
+            width=40%> 
+            align=left
+            height: 5px;
             background-color: rgb(255, 255, 255);
             border: none;
         }
