@@ -18,3 +18,8 @@ border-color: #e9f5f5;
          h1 { color: #66bfbf; } 
          h2 { color: #66bfbf;}
          h3 { color: #66bfbf;}
+  hr{
+            height: 100px;
+            background-color: rgb(255, 255, 255);
+            border: none;
+        }
