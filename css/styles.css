@@ -25,3 +25,7 @@ border-color: #e9f5f5;
             background-color: rgb(255, 255, 255);
             border: none;
         }
+h1, h2, h3, h4 {
+    font-family: "Montserrat-Bold";
+    color: #7c6fa1;
+}
